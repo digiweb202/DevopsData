@@ -1,0 +1,33 @@
+#Monolith to Microservice Migration and deployment related work //:
+**********************************************************************
+**********************************************************************
+Google Cloud Tech 
+Playlist
+Tom Annan
+**********************************************************************
+**********************************************************************
+Deployment side convert large service to micro deployment related work //:
+**********************************************************************
+**********************************************************************
+
+
+Monolith architecture application build in large server configuration deployment build in server configuration related network and code side build 
+**********************************************************************
+**********************************************************************
+
+application build in network connection and secret config related work deployment before that work must be impletement on cloud side because that will be service will be attach and cloud side live that mapping ip //:
+**********************************************************************
+**********************************************************************
+
+
+
+
+
+PHPMYADMIN
+
+
+
+
+Application build in Service by Divide application architecture //
+build through managment directly connection link application build in single architecture and deployment related work //:
+Pointing link application high value Intent Management link //:
